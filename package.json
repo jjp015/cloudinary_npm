@@ -56,6 +56,7 @@
   ],
   "types": "types",
   "scripts": {
+    "start": "node samples/photo_album/server.js",
     "test": "tools/scripts/test.sh",
     "test:unit": "tools/scripts/test.es6.unit.sh",
     "test-with-temp-cloud": "tools/scripts/tests-with-temp-cloud.sh",
